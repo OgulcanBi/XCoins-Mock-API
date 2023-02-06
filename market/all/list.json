@@ -1,13 +1,5 @@
 {
-  "trendingList": [
-    {
-      "longName": "Bitcoin",
-      "shortName": "BTC",
-      "currentPrice": 32312.12,
-      "changeRatio": 1.86,
-      "currency": "usd",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
-    },
+  "marketList": [
     {
       "longName": "Ethereum ",
       "shortName": "ETH",
@@ -23,6 +15,14 @@
       "changeRatio": -10.86,
       "currency": "usd",
       "imageUrl": "https://seeklogo.com/images/B/band-protocol-band-logo-76B57A8CE4-seeklogo.com.png"
+    },
+    {
+      "longName": "Bitcoin",
+      "shortName": "BTC",
+      "currentPrice": 32312.12,
+      "changeRatio": 1.86,
+      "currency": "usd",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
     },
     {
       "longName": "Cordano",

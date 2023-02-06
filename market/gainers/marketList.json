@@ -1,29 +1,6 @@
 {
-  "trendingList": [
-    {
-      "longName": "Bitcoin",
-      "shortName": "BTC",
-      "currentPrice": 32312.12,
-      "changeRatio": 1.86,
-      "currency": "usd",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
-    },
-    {
-      "longName": "Ethereum ",
-      "shortName": "ETH",
-      "currentPrice": 1234.5,
-    "changeRatio": -2.12,
-    "currency": "usd",
-    "imageUrl": "https://www.kindpng.com/picc/m/128-1287761_persystance-networks-ethereum-logo-ethereum-sign-transparent-background.png"
-    },
-    {
-      "longName": "Band Protocol",
-      "shortName": "BAND",
-      "currentPrice":50.21,
-      "changeRatio": -10.86,
-      "currency": "usd",
-      "imageUrl": "https://seeklogo.com/images/B/band-protocol-band-logo-76B57A8CE4-seeklogo.com.png"
-    },
+  "marketList": [
+
     {
       "longName": "Cordano",
       "shortName": "ADA",
@@ -55,6 +32,30 @@
     "changeRatio": 1.86,
     "currency": "usd",
     "imageUrl": "https://www.google.com/url?https://cdn3d.iconscout.com/3d/premium/thumb/COSMOS-5655809-4713522.png"
+    },
+    {
+      "longName": "Ethereum ",
+      "shortName": "ETH",
+      "currentPrice": 1234.5,
+      "changeRatio": -2.12,
+      "currency": "usd",
+      "imageUrl": "https://www.kindpng.com/picc/m/128-1287761_persystance-networks-ethereum-logo-ethereum-sign-transparent-background.png"
+    },
+    {
+      "longName": "Band Protocol",
+      "shortName": "BAND",
+      "currentPrice":50.21,
+      "changeRatio": -10.86,
+      "currency": "usd",
+      "imageUrl": "https://seeklogo.com/images/B/band-protocol-band-logo-76B57A8CE4-seeklogo.com.png"
+    },
+    {
+      "longName": "Bitcoin",
+      "shortName": "BTC",
+      "currentPrice": 32312.12,
+      "changeRatio": 1.86,
+      "currency": "usd",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png"
     },
     {
       "longName": "Caizcoin",
