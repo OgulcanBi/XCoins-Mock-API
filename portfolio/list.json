@@ -1,0 +1,67 @@
+{
+  "portfolioList": [
+    {
+      "longName": "Raven",
+      "shortName": "RVN",
+      "currentPrice": 1234.5,
+    "changeRatio": 0.05,
+    "currency": "usd",
+    "amount": 0.43,
+    "imageUrl": "https://www.iconbolt.com/preview/facebook/cryptocurrency/rvn.svg"
+    },
+    {
+      "longName": "Band Protocol",
+      "shortName": "BAND",
+      "currentPrice": 50.21,
+      "changeRatio": -10.86,
+      "currency": "usd",
+      "amount": 1500,
+      "imageUrl": "https://seeklogo.com/images/B/band-protocol-band-logo-76B57A8CE4-seeklogo.com.png"
+    },
+    {
+      "longName": "Caizcoin",
+      "shortName": "CAIZ",
+      "currentPrice": 0.0000012,
+      "changeRatio": -12.66,
+      "currency": "usd",
+      "amount": 15.3,
+      "imageUrl": "https://blockchainjobseurope.com/wp-content/uploads/job-manager-uploads/company_logo/2021/10/caiz.png"
+    },
+    {
+      "longName": "Ethereum ",
+      "shortName": "ETH",
+      "currentPrice": 1234.5,
+    "changeRatio": -2.12,
+    "currency": "usd",
+    "amount": 2211,
+    "imageUrl": "https://www.kindpng.com/picc/m/128-1287761_persystance-networks-ethereum-logo-ethereum-sign-transparent-background.png"
+    },
+    {
+      "longName": "Tron",
+      "shortName": "TRX",
+      "currentPrice": 0.00021,
+      "changeRatio": 1.62,
+      "currency": "usd",
+      "amount": 1663.22,
+      "imageUrl": "https://cdn3d.iconscout.com/3d/premium/thumb/tron-coin-7105847-5752946.png"
+    },
+    {
+      "longName": "Cordano",
+      "shortName": "ADA",
+      "currentPrice": 1234.5,
+    "changeRatio": 11.98,
+    "currency": "usd",
+    "amount": 1605005323,
+    "imageUrl": "https://www.pngall.com/wp-content/uploads/10/Cardano-Crypto-Logo.png"
+    },
+    {
+      "longName": "Atom",
+      "shortName": "Cosmos",
+      "currentPrice": 120.10,
+      "changeRatio": 1234.5,
+    "currency": "usd",
+    "amount": 0.000006,
+    "imageUrl": "https://www.google.com/url?https://cdn3d.iconscout.com/3d/premium/thumb/cosmos-5655809-4713522.png"
+    }
+  ]
+}
